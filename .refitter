@@ -1,0 +1,8 @@
+﻿{
+  "openApiPath": "./yandex-market-partner-api/openapi/openapi.yaml",
+  "namespace": "Yandex.Market.Partner",
+  "naming": {
+    "useOpenApiTitle": false,
+    "interfaceName": "YaMarketPartnerClient"
+  }
+}

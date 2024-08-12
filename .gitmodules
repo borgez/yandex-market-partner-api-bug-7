@@ -1,0 +1,3 @@
+[submodule "yandex-market-partner-api"]
+	path = yandex-market-partner-api
+	url = https://github.com/yandex-market/yandex-market-partner-api.git
